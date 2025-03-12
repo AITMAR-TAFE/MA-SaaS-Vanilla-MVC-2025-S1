@@ -1,0 +1,41 @@
+{
+  "name": "aitmar-tafe/ma_saas_vanilla_mvc_2025_s1",
+  "description": "Vanilla PHP MVC Framework",
+  "type": "project",
+  "version": "0.1",
+  "time": "2025-03-12",
+  "keywords": [
+    "mvc",
+    "framework",
+    "vanilla",
+    "demo",
+    "mysql",
+    "mariadb"
+  ],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Martina Ait",
+      "email": "20114816@tafe.wa.edu.au",
+      "homepage": "https://aitmar-tafe.github.io/",
+      "role": "Developer"
+    },
+    {
+      "name": "Brad Traversy",
+      "email": "support@traversymedia.com",
+      "homepage": "https://www.traversymedia.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+
+
+}
