@@ -239,3 +239,28 @@ Temporary Items
 /.obsidian/plugins/novel-word-count/data.json  
 /.obsidian/workspace.json  
 /.obsidian/vault-stats.json
+
+
+# Vendor and Node Modules
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Composer and Vendor folders
+composer.phar
+/vendor
+/vendor/**/*
+composer.lock

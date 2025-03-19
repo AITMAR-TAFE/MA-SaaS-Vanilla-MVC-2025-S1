@@ -1,0 +1,41 @@
+{
+  "name": "ma-saas-vanilla-mvc-2025-s1",
+  "version": "1.0.0",
+  "description": "Simple PHP MVC & TailwindCSS Application Template",
+  "main": "index.php",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vite preview",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AITMAR-TAFE/MA-SaaS-Vanilla-MVC-2025-S1.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "css",
+    "html5",
+    "nodejs",
+    "php",
+    "mvc",
+    "simple",
+    "traversy-media"
+  ],
+  "author": "Martina Ait 20114816@tafe.wa.edu.au",
+  "license": "SEE LICENSE IN Licence.md",
+  "bugs": {
+    "url": "https://github.com/AITMAR-TAFE/MA-SaaS-Vanilla-MVC-2025-S1/issues"
+  },
+  "homepage": "https://github.com/AITMAR-TAFE/MA-SaaS-Vanilla-MVC-2025-S1#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.14",
+    "@tailwindcss/postcss": "^4.0.14",
+    "@tailwindcss/vite": "^4.0.14",
+    "tailwindcss": "^4.0.14",
+    "vite-plugin-live-reload": "^3.0.4",
+    "vite-plugin-php": "^2.0.1"
+  }
+}
