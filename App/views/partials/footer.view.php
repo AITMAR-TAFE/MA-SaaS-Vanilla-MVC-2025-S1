@@ -1,0 +1,75 @@
+<?php
+/**
+ * HTML Template using TailwindCSS
+ *
+ * Filename:        template.php
+ * Location:        public
+ * Project:         XXX-SaaS-Vanilla-MVC-SN
+ * Date Created:    2025-03-13
+ *
+ * Author:          Adrian Gould <Adrian.Gould@nmtafe.wa.edu.au>
+ *
+ */
+?>
+
+<footer class="w-full text-zinc-400 bg-gray-950 body-font text-sm pt-4">
+    <section class="max-w-screen-xl mx-auto px-4 sm:px-6
+         text-zinc-400 flex flex-wrap justify-between">
+        <nav class="p-5">
+            <h5 class="text-left font-medium tracking-widest text-zinc-500 uppercase title-font text-xs">
+                About
+            </h5>
+            <a class="my-1 block" href="/#">Company <span class="text-gray-600 text-xs p-1"></span>
+            </a>
+            <a class="my-1 block" href="/#">Careers <span class="text-gray-600 text-xs p-1"></span>
+            </a>
+            <a class="my-1 block" href="/#">Blog <span class="text-gray-600 text-xs p-1">New</span>
+            </a>
+        </nav>
+        <nav class="p-5">
+            <h5 class="text-left font-medium tracking-widest text-zinc-500 uppercase title-font text-xs">
+                Resources
+            </h5>
+
+            <a class="my-1 block" href="/#">Documentation <span class="text-gray-600 text-xs p-1"></span>
+            </a>
+            <a class="my-1 block" href="/#">Tutorials <span class="text-gray-600 text-xs p-1"></span>
+            </a>
+            <a class="my-1 block" href="/#">Release Updates <span class="text-gray-600 text-xs p-1"></span>
+            </a>
+        </nav>
+        <nav class="p-5">
+            <h5 class="text-left font-medium tracking-widest text-zinc-500 uppercase title-font text-xs">
+                Support
+            </h5>
+
+            <a class="my-1 block" href="https://help.screencraft.net.au">Help Center <span
+                    class="text-gray-600 text-xs p-1">New</span>
+            </a>
+            <a class="my-1 block" href="https://help.screencraft.net.au/hc/2680392001">FAQs <span
+                    class="text-gray-600 text-xs p-1">New</span>
+            </a>
+            <a class="my-1 block" href="/#">Privacy Policy <span class="text-gray-600 text-xs p-1">TBA</span>
+            </a>
+            <a class="my-1 block" href="/#">Conditions <span class="text-gray-600 text-xs p-1">TBA</span>
+            </a>
+        </nav>
+
+        <nav class="p-5">
+            <h5 class="text-left font-medium tracking-widest text-zinc-500 uppercase title-font text-xs">
+                Contact us
+            </h5>
+
+            <a class="my-1 block" href="/#">123 No Return Point, Perth WA, Australia
+                <span class="text-gray-600 text-xs p-1"></span>
+            </a>
+
+            <a class="my-1 block" href="/#">contact@example.com
+                <span class="text-gray-600 text-xs p-1"></span>
+            </a>
+            <p class="mt-7 text-sm capitalize text-zinc-500">
+                © Copyright 2024 YOUR NAME. All rights reserved
+            </p>
+        </nav>
+    </section>
+</footer>
