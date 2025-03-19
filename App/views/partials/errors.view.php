@@ -2,12 +2,12 @@
 /**
  * HTML Template using TailwindCSS
  *
- * Filename:        template.php
+ * Filename:        errors.view.php
  * Location:        public
- * Project:         XXX-SaaS-Vanilla-MVC-SN
+ * Project:         MA-SaaS-Vanilla-MVC-S1
  * Date Created:    2025-03-13
  *
- * Author:          Adrian Gould <Adrian.Gould@nmtafe.wa.edu.au>
+ * Author:          Martina Ait
  *
  */
 
